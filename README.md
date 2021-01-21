@@ -1,3 +1,1 @@
-hoge
-tenten
-uhouho
+git-practiceのコミットが上手くいかなかったのでやり直しました。
